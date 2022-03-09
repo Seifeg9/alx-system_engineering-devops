@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^[[:alpha:]]'[D[D[D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[C[C[C[C[C[C[C[ /etc/ssh/sshd_config
+grep '^[[:alpha:]]' /etc/ssh/sshd_config
